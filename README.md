@@ -4,12 +4,6 @@ A full-stack web application for an anime merchandise store, featuring a **MySQL
 
 ---
 
-## Database Schema (ERD)
-
-![Anime Store ER Diagram](erd_diagram.png)
-
----
-
 ## Tables
 
 | Table | Description |
